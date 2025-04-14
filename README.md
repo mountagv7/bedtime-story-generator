@@ -59,6 +59,5 @@ node_modules/
 ## 👤 Author
 **Mountaga Sy**  
 GitHub: [mountagv7](https://github.com/mountagv7)  
-## 📷 Preview
-*Add a screenshot or demo GIF here later if needed*
+
 
