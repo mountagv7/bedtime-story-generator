@@ -12,17 +12,19 @@ This project is a fun bedtime story generator that uses AI to create a calming s
 
 ## 📁 Project Structure
 
-Bonus/
-├── client/
-│ ├── index.html
-│ ├── styles.css
-│ └── script.js
-├── server/
-│ ├── server.js
-│ └── aiStory.js
-├── .env
-├── .gitignore
-└── package.json
+📁 Bonus/
+├── 📁 client/
+│   ├── index.html
+│   ├── styles.css
+│   └── script.js
+├── 📁 server/
+│   ├── server.js
+│   └── aiStory.js
+├── .env              # API keys (excluded from repo via .gitignore)
+├── .gitignore        # To ignore node_modules and .env
+├── package.json      # Project dependencies and scripts
+├── README.md         # Project description and usage
+
 
 ## 🚀 Getting Started
 Clone the repository:  
